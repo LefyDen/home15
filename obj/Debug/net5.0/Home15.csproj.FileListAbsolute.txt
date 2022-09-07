@@ -1,0 +1,16 @@
+D:\Beatroot\Home15\bin\Debug\net5.0\Home15.exe
+D:\Beatroot\Home15\bin\Debug\net5.0\Home15.deps.json
+D:\Beatroot\Home15\bin\Debug\net5.0\Home15.runtimeconfig.json
+D:\Beatroot\Home15\bin\Debug\net5.0\Home15.runtimeconfig.dev.json
+D:\Beatroot\Home15\bin\Debug\net5.0\Home15.dll
+D:\Beatroot\Home15\bin\Debug\net5.0\ref\Home15.dll
+D:\Beatroot\Home15\bin\Debug\net5.0\Home15.pdb
+D:\Beatroot\Home15\obj\Debug\net5.0\Home15.csproj.AssemblyReference.cache
+D:\Beatroot\Home15\obj\Debug\net5.0\Home15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Beatroot\Home15\obj\Debug\net5.0\Home15.AssemblyInfoInputs.cache
+D:\Beatroot\Home15\obj\Debug\net5.0\Home15.AssemblyInfo.cs
+D:\Beatroot\Home15\obj\Debug\net5.0\Home15.csproj.CoreCompileInputs.cache
+D:\Beatroot\Home15\obj\Debug\net5.0\Home15.dll
+D:\Beatroot\Home15\obj\Debug\net5.0\ref\Home15.dll
+D:\Beatroot\Home15\obj\Debug\net5.0\Home15.pdb
+D:\Beatroot\Home15\obj\Debug\net5.0\Home15.genruntimeconfig.cache
